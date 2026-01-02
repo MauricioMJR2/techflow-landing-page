@@ -16,7 +16,7 @@ header {
    padding: 1rem;
 }
 
-nav{
+nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -39,6 +39,6 @@ section {
 }
 
 #home {
-    background: black;
+    background: #ecf0f1;    
     margin-top: 4rem;
 }
